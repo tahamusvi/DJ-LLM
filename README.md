@@ -1,6 +1,6 @@
-# Fine-Tuning LLM for djangoEX Group
+# Fine-Tuning LLM for django
 
-This project aims to fine-tune a Large Language Model (LLM) based on the message data from the djangoEX group. Our goal is to create a model that can respond to user inquiries based on the content of this group.
+This project aims to fine-tune a Large Language Model (LLM) based on the message data from the django. Our goal is to create a model that can respond to user inquiries based on the content of this some groups with django content.
 
 
 
